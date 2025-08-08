@@ -3,6 +3,7 @@ body{
     font-family: segoe UI,san-serif;
     background-color: #fff8f0;
     color: #333;
+   
 }
 
 header{
@@ -84,12 +85,14 @@ font-size: bold;
 
 
  footer{
-    background-color: #222;
-    color: #fff;
-    text-align: center;
-    padding: 20px 10px;
-    margin-top: auto;
-    
+    background-color: #fff;
+    color: #000;
+    text-align: left;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     font-size: 14px;
  }
 
@@ -102,3 +105,5 @@ font-size: bold;
  footer a:hover{
     text-decoration: underline;
  }
+
+

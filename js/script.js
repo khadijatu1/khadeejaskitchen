@@ -7,7 +7,7 @@ function orderWhatsapp() {
     const encodedMessage=
     encodeURIComponent (message);
 
-    const url = `https://wa.me/${+2348028124356}?text=$encodedMassage}`;
+    const url = `https://wa.me/${+2348028124356}?text=$please  place your oder }`;
     window.open(url, '_blank');
 }
 
